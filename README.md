@@ -5,7 +5,7 @@ A beautiful, production-ready API rate limiting system built with React, TypeScr
 ![API Rate Limiter](https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
 ## 🚀 Live Demo
 
-**[View Live Application](https://customerssegmentation.netlify.app/)**
+**[View Live Application](https://fj337rvmybdrjaamgrh6en.streamlit.app/)**
 
 ## ✨ Features
 
