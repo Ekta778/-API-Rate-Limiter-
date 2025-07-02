@@ -125,25 +125,6 @@ src/
 └── vite-env.d.ts               # Vite type definitions
 ```
 
-## 🎨 Design System
-
-### Color Palette
-- **Primary Pink**: `pink-600` to `pink-900`
-- **Rose Accents**: `rose-300` to `rose-800`
-- **Fuchsia Highlights**: `fuchsia-300` to `fuchsia-500`
-- **Background**: Gradient from `pink-900` via `pink-800` to `rose-900`
-
-### Typography
-- **Headings**: Bold, white text with proper hierarchy
-- **Body Text**: Pink-200 for primary content
-- **Monospace**: Used for input/output display and technical data
-- **Responsive**: Scales appropriately across all devices
-
-### Components
-- **Cards**: Glassmorphism effect with `backdrop-blur-sm`
-- **Buttons**: Pink gradient with hover states
-- **Inputs**: Pink-themed with focus states
-- **Borders**: Subtle pink borders with transparency
 
 ## 🚀 Build & Deploy
 
@@ -189,9 +170,6 @@ Add new processing modes by:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -202,7 +180,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
-  <p>Built with ❤️ and lots of ☕</p>
-  <p>Made for production-ready applications</p>
-</div>
