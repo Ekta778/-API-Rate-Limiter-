@@ -1,6 +1,6 @@
 # API Rate Limiter
 
-A beautiful, production-ready API rate limiting system built with React, TypeScript, and Tailwind CSS. Features a stunning pink gradient theme with glassmorphism effects and real-time traffic control capabilities.
+A production-ready API rate limiting system built with React, TypeScript, and Tailwind CSS. Features a stunning pink gradient theme with glassmorphism effects and real-time traffic control capabilities.
 
 ![API Rate Limiter](https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
 ## 🚀 Live Demo
